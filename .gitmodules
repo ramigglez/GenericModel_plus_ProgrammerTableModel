@@ -1,0 +1,3 @@
+[submodule "GenericCrud"]
+	path = GenericCrud
+	url = https://github.com/ramigglez/GenericCrud.git
